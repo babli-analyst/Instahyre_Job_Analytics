@@ -51,13 +51,15 @@ This project aimed at extracting valuable insights from the vast pool of data av
 
 
 ![insight5](https://github.com/babli-analyst/Instahyre_Job_Analytics-I/assets/137719109/0bf17247-8e39-423e-af91-8e52d2a95137)
+
 # Conclusion
 
-- Market capture of SBL Pvt Ltd is comparatively better than others.
-- Better Scope in the Dental Category Because Competition in that Category is comparitively low.
-- Approximately 9-10 lakh Indian Rupees is required to open a homeopathic medicine store in a Tier 2 city.
+- Software domain has more jobopenings, indicating high demand.
+- Bangalore city offers abundant jobopportunities, especially in software.
+- Experienced professionals have betterjob prospects.
+- Freshers face tough competition in thejob market.
  
-![Guestimate](https://github.com/ankitpal154/Capstone_project/assets/139064260/22524af8-bb53-48ef-940a-4455a0211aa0)
+
 # Challenges Faced
 - **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
 - **Google Colab Solution**: Resolved the issue by migrating scraping operations to Google Colab.
