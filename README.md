@@ -15,17 +15,12 @@ This project aimed at extracting valuable insights from the vast pool of data av
 
 ##   Analysis
 
-- Number of medicine available of different benefit area.
-- Price range of medicine for each benefit area.
-- Brand specialization(Key Benefits) of each area.
-- Average price, min price , max price and number of products for each brand.
-- Average number of rating for each brand in their specialization products where  the number of rating is not NULL.
-- Maximum number of times ingredient used in each benefit area.
-- Average cost for ingredients.
-- Most used ingredient
-- Which brand has most greater than 4 point review medicine?
-
-
+- Number of job openings based on experience and locations.
+- Job trends based on different fields.
+- Job markets based on different type of industries.
+- Number of job openings based on experience and locations.
+- Comparision of job openings based on number of employees.
+- Number of job openings in different companies.
 
 ##  Tools and Languages used
 
