@@ -8,7 +8,7 @@ This project aimed at extracting valuable insights from the vast pool of data av
 | Files/Folder| Description |
 | ------------- | ------------- |
 | **Csv File** | These files provide the cleaned data as well as scraped data after.  |
-| **Dashboard** | This contains the .pbix file related to the Power bi.  |
+| **Dashboard** | This contains the .pbix file related to the Power bi dashboard.  |
 | **Project Presentation** | This contains project ppt. |
 | **Python File** | This contains Python code for web scraping. |
 | **SQL File** | This contains Sql Queries for Project related questions. |
