@@ -1,16 +1,17 @@
 # Instahyre-Job-Openings-Analysis
 
-This project aimed at extracting valuable insights from the vast pool of data available on the InstaHire platform. The goal is to facilitate the job seekers by delivering tailored insights based on the their skills, enabling them to find the effortlessly employment opportunies based on locations, Sectors and work-dynamics. 
+This project aimed at extracting valuable insights from the vast pool of data available on the InstaHire platform. The goal is to facilitate the job seekers by delivering tailored insights based on the their skills, enabling them to find the effortlessly employment opportunies based on locations, Sectors and Work-dynamics. 
 
 
 ##   **User's Manual**
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Csv file** | This file provides the cleaned data after data cleaning.  |
-| **Python File** | This contains the .ipynb file related to the web scrapping part.  |
-| **Other Excel file** | This will provide the raw files after web scraping |
-| **Project Prestation** | This file have the dashboards and insights of the project. |
+| **Csv File** | These files provide the cleaned data as well as scraped data after.  |
+| **Dashboard** | This contains the .pbix file related to the Power bi.  |
+| **Project Presentation** | This contains project ppt. |
+| **Python File** | This contains Python code for web scraping. |
+| **SQL File** | This contains Sql Queries for Project related questions. |
 
 ##   Analysis
 
