@@ -52,7 +52,7 @@ This project aimed at extracting valuable insights from the vast pool of data av
 
 ![insight5](https://github.com/babli-analyst/Instahyre_Job_Analytics-I/assets/137719109/0bf17247-8e39-423e-af91-8e52d2a95137)
 
-# Conclusion
+# Conclusions
 
 - Software domain has more jobopenings, indicating high demand.
 - Bangalore city offers abundant jobopportunities, especially in software.
@@ -60,9 +60,8 @@ This project aimed at extracting valuable insights from the vast pool of data av
 - Freshers face tough competition in thejob market.
  
 
-# Challenges Faced
-- **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
-- **Google Colab Solution**: Resolved the issue by migrating scraping operations to Google Colab.
-- **Extended Scraping Time**: Extracting details of each medicine took more time than anticipated.
-- **Duplicate Data Issue**: Encountered delays due to duplicate data in the scraping process.
-- **Learning Efficiency**: Gained insights into optimizing scraping methods for speed and accuracy.
+# Challenges and Solutions
+- **Data Scraping**: Data scraping was the main challenge as site was not changing for different pages .
+- **Selenium Framework**: Resolved the issue of data scraping using Selenium.
+- **Extended Scraping Time**: Extracting details of each job profile took more time than anticipated.
+
