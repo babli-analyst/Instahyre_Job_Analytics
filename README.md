@@ -32,7 +32,7 @@ This project aimed at extracting valuable insights from the vast pool of data av
 - Power Bi is used for dashboard and data visualization.
 
 # Dashboard
-![1mg dashboard](https://github.com/ankitpal154/Capstone_project/assets/139064260/e9d479ef-7ca7-4924-a389-0008cc786d79)
+![dashboard](https://github.com/babli-analyst/Instahyre_Job_Analytics-I/assets/137719109/f394bdd4-39ea-41b5-8563-c3c73aee446d)
 
 
 
