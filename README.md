@@ -24,11 +24,12 @@ This project aimed at extracting valuable insights from the vast pool of data av
 
 ##  Tools and Languages used
 
-- Scraped the data with the help of Python BeautifulSoup librariy.
-- Used Pandas for the data framing part.
+- Scraped the data with the help of Python BeautifulSoup library and Selenium framework.
+- Used Pandas library for the data framing part.
 - Analysis was done with the help of Pandas and Excel.
+- SQL is used for writing queries for the project based questions.
 - Insights were generated from the above analysis.
-- Excel is used for dashboard and data visualization.
+- Power Bi is used for dashboard and data visualization.
 
 # Dashboard
 ![1mg dashboard](https://github.com/ankitpal154/Capstone_project/assets/139064260/e9d479ef-7ca7-4924-a389-0008cc786d79)
