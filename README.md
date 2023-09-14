@@ -1,6 +1,6 @@
 # Instahyre-Job-Openings-Analysis
 
-This project aimed at extracting valuable insights from the vast pool of data available on the InstaHire platform. The goal is to facilitate the job seekers by delivering tailored insights based on the their skills, enabling them to find the effortlessly employment opportunies based on locations, Sectors and Work-dynamics. 
+This project aimed at extracting valuable insights from the vast pool of data available on the Instahyre platform. The goal is to facilitate the job seekers by delivering tailored insights based on the their skills, enabling them to find the effortlessly employment opportunies based on locations, Sectors and Work-dynamics. 
 
 
 ##   **User's Manual**
